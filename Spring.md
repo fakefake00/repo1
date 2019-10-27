@@ -249,7 +249,7 @@
 
 官方解释：
 
-![image-20191025001927715](Spring.assets\image-20191025001927715.png)
+![image-20191025001927715](https://github.com/fakefake00/repo1.git/Spring.assets/image-20191025001927715.png)
 
 使用：
 
