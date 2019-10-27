@@ -249,7 +249,7 @@
 
 官方解释：
 
-![image-20191025001927715](Spring.assets\image-20191025001927715.png)
+![image-20191025001927715](https://github.com/fakefake00/repo1/raw/master/Spring.assets/image-20191025001927715.png)
 
 使用：
 
@@ -290,7 +290,7 @@ xmlns:c="http://www.springframework.org/schema/c"
 
 ## 6.4、bean的作用域
 
-![image-20191025090622684](Spring.assets\image-20191025090622684.png)
+![image-20191025090622684](https://github.com/fakefake00/repo1/raw/master/Spring.assets/image-20191025090622684.png)
 
 1. 单例模式（Spring默认机制）
 
@@ -457,7 +457,7 @@ public class Person {
 
 在Spring4之后，要使用注解开发，必须保证aop的包导入了
 
-![image-20191025154442453](Spring.assets\image-20191025154442453.png)
+![image-20191025154442453](https://github.com/fakefake00/repo1/raw/master/Spring.assets/image-20191025154442453.png)
 
 使用注解需要导入context约束，增加注解的支持
 
